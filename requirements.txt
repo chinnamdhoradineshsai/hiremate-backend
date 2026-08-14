@@ -12,3 +12,4 @@ beautifulsoup4>=4.12.3
 python-dotenv>=1.0.1
 supabase>=2.0.0
 tavily-python>=0.5.0
+email-validator
