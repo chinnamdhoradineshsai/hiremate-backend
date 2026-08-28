@@ -1,4 +1,4 @@
-````python
+
 import httpx
 import json
 from app.core.config import settings
@@ -258,6 +258,5 @@ class NVIDIAClient:
 
 
 nvidia_client = NVIDIAClient()
-````
 
 
