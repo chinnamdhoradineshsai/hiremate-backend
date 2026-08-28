@@ -1,4 +1,4 @@
-```python
+
 import httpx
 import uuid
 from datetime import datetime
@@ -509,4 +509,3 @@ async def google_login(
             )
         )
     )
-```
